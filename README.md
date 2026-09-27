@@ -20,7 +20,7 @@ Programa desenvolvido em Python utilizando estruturas de repetição (`for`) e d
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Ambiente:** Visual Studio Code / Windows Terminal
-- **Controlo de Versão:** Git e GitHub
+- **Controle de Versão:** Git e GitHub
 
 ## Como Executar
 1. Certifique-se de que tem o Python instalado no seu computador.
