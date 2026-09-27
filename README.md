@@ -1,5 +1,11 @@
 # Pesquisa de Opinião - TudoWeb
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Linguagem-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ambiente-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Plataforma-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+</p>
+
 Projeto desenvolvido em Python no âmbito da **Agenda 08 - Desenvolvimento de Sistemas I** (ETECAP).
 
 ## Descrição do Projeto
